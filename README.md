@@ -9,7 +9,8 @@ Combinatorial explosion refers to the rapid growth of computational complexity w
 <div align="center">
 <img src="img\fig1_comb_expl_graph.png" alt="image1" width="400px" />
 </div>
-*Image source: Friedman, R. (2022). A Perspective on Information Optimality in a Neural Circuit and Other Biological Systems. Signals, 3(2), 410-427.*
+*Image source: Reprinted from Friedman, R. (2022). A perspective on information optimality in a neural circuit and other biological systems. Signals, 3(2), 410–427.*
+
 
 ## Purpose
 
